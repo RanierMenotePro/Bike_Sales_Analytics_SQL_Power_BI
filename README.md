@@ -44,7 +44,6 @@ This structure ensures:
 - SQL (data transformation & analytical views)
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
-- GitHub (version control & documentation)
 
 ---
 
