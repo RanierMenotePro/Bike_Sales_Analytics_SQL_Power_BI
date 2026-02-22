@@ -51,8 +51,11 @@ This structure ensures:
 
 ```
 /sql
+    data (.csv files)
+    ...
     create_views.sql
     analytical_queries.sql
+    ...
 
 /powerbi
     sales_dashboard.pbix
